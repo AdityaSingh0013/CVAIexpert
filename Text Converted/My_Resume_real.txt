@@ -1,43 +1,7 @@
-CELCILIN
-C.S
-Full Stack Developer
-I’m Celcilin C.S, Full-Stack Developer
-with 2 years experience. I’m specialist
-in handling Data and Design also
-intrested to explore and learn new
-Things.
-EXPERIENCE
-EDUCATION
-2020 - 2021
-2019 - 2022
-Sid Muxical Inc,
-CBSE School
-Full-Stack Web Development
-Senior High School (2022)
-Handling Front-End and Back-End
-Secondary School (2020)
-with data research , design and
-2022 - 2026
-Maintenance.
-MIT ADT University
-Bachelor of Technology 2023 - present
-(Computer Science & Eng)
-Self-Projects.
-Full-Stack Android Development
-SKILL
-Handling some Advance data in
-Back-End With Firebase and Aws
-Front-End (HTML,CSS,JS)
-90% Cloud Service
-Back-End (SQL,HTTP,DataBase)
-80% CONTACT
-Frameworks (Django,React-Native)
-mctria
-77%
-celcilin204@gmail.com
-Designing (Figma,Canva)
-80%
-www.celcilin.com
-Data-Handling (Node.js,TS)
-celcilin-cs
-88%
+echo "# CVAIexpert" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AdityaSingh0013/CVAIexpert.git
+git push -u origin main
