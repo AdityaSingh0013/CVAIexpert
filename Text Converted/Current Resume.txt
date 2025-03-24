@@ -1,0 +1,40 @@
+Aditya Singh
++91 9139301150
+aditya.sh252@gmail.com
+Linked In - www.linkedin.com/in/aditya-singh-379420283
+PROFILE SUMMARY
+Aspiring Data Scientist with a strong academic background in AI, machine learning, and data analytics.
+Currently pursuing a degree in Computer Science with hands-on experience in Python, SQL, and data
+analysis techniques. Passionate about analyzing data to uncover insights, build predictive models, and solve
+real-world problems. Eager to apply theoretical knowledge through internships and projects.
+KEY SKILLSETS
+Programming Languages: Non Technical Skills: Technical Skills:
+C/C++ Leadership and presenting skills. Pandas
+Python Critical thinking skills. MySQL
+Java / Flutter Reliable Communication skills Matplotlib
+PROJECT OVERVIEW
+C -Assist (Patented Career Counselling Modular) 2022 - 2023
+C-Assist is a career counseling device designed to guide individuals in making informed career choices. It
+leverages artificial intelligence and data-driven insights to provide personalized recommendations based on
+an individual's skills, interests, and current job market trends. The device offers real-time feedback, helping
+users identify suitable career paths and areas for skill improvement.
+https://www.figma.com/file/6Jtvscd60dcw4MJxjhUpdf/Untitled?type=design&node-
+id=0%3A1&mode=design&t=0pKyWGj2BAWLn23g-1
+Customer Segmentation Application 2023 -2024
+A customer segmentation application uses data analytics and machine learning to categorize customers into
+distinct groups based on shared characteristics, such as demographics, behavior, purchase history, or
+preferences. This segmentation enables businesses to tailor their marketing strategies, product offerings,
+and communication to better meet the needs of each customer group. By identifying high-value segments
+and trends, companies can enhance customer engagement, improve retention, and boost profitability.
+https://www.figma.com/file/J8Fs7HMKmT2H9LWwCamw8a/Untitled?type=design&node-
+id=0%3A1&mode=design&t=OHINL3lJ8W0z8acN-1
+EDUCATIONAL BACKGROUND CERTIFICATIONS & EXTRACURRICULAR
+Pursuing Bachelor of Technology in Computer Class Representative for Second Year in C.S.E
+Science and Engineering MIT - SOC
+At MIT ADT University.
+Flutter Certification & Bootcamp
+Specialization: Core and Data Analytics
+MIT WPU Technical Camp
+Higher Secondary Education
+Akshara International School - 92.9% Python And C++ Certification
+March 2019 IIT Madras Online Certification Process
