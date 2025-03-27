@@ -7,7 +7,7 @@ def run():
     df.sort_values(by=['student_id', 'attendance_date'], inplace=True)
     df_absent = df[df['status'].str.lower() == 'absent'].copy()
     df_absent['group'] = (
-        df_absent.groupby('student_id')['attendance_date'].diff().dt.days.ne(1).cumsum()
+        dfabsent.groupby('student_id')['attendance_date'].diff().dt.days.ne(1).cumsum()
     )
 
     streaks = (
